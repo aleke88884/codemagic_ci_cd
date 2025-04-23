@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693959561008",
+    "project_id": "fir-ci-cd-afa66",
+    "storage_bucket": "fir-ci-cd-afa66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693959561008:android:d314900a7c40e3de0cc2f5",
+        "android_client_info": {
+          "package_name": "com.example.codemagic_ci_cd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPct0FMxKt9PIa6yZd-rw3tkAry1wT8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
